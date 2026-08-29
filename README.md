@@ -71,35 +71,6 @@ ROC-AUC    → 77.18%
 ```
 
 ---
-
-## 📊 Model Performance
-
-### ROC Curves
-
-<p align="center">
-  <img src="roc_curves.png" alt="ROC Curves" width="750">
-</p>
-
-### Model Comparison
-
-<p align="center">
-  <img src="model_comparison.png" alt="Model Comparison" width="750">
-</p>
-
-### Confusion Matrices
-
-<p align="center">
-  <img src="confusion_matrices.png" alt="Confusion Matrices" width="750">
-</p>
-
-### Feature Importance
-
-<p align="center">
-  <img src="feature_importance.png" alt="Feature Importance" width="750">
-</p>
-
----
-
 ## 🔧 Feature Engineering
 
 The project creates additional features to capture customer financial behavior:
